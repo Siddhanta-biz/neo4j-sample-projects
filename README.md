@@ -1,5 +1,10 @@
 # neo4j-sample-projects
 
+
+<img src="neo4j-sample-db.png" width="600" height="400">
+
+
+
 1) start neo4j server 
 2) run follwing 
 
